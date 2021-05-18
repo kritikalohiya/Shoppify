@@ -1,0 +1,49 @@
+{
+"Pdata" : [
+    {   "id":1,
+        "imgsrc": "/home/ttn/React/my-ecommerce/src/Images/p7.jpg",
+        "pname": "Leather Black Jacket",
+        "rate": 200
+    },
+    {   "id":2,
+        "imgsrc": "/home/ttn/React/my-ecommerce/src/Images/p5.jpg",
+        "pname": "Bold Army Jacket",
+        "rate": 230
+    },
+    {   "id":3,
+        "imgsrc": "/home/ttn/React/my-ecommerce/src/Images/p11.jpg",
+        "pname": "FurrM Jacket",
+        "rate": 400
+    },
+    {   "id":4,
+        "imgsrc": "/home/ttn/React/my-ecommerce/src/Images/p4.jpg",
+        "pname": "Bomber Jacket",
+        "rate": 450
+    },
+    {   "id":5,
+        "imgsrc": "/home/ttn/React/my-ecommerce/src/Images/p10.jpg",
+        "pname": "FurrB Jacket",
+        "rate": 300
+    },
+    {   "id":6,
+        "imgsrc": "/home/ttn/React/my-ecommerce/src/Images/p6.jpg",
+        "pname": "Net Jacket",
+        "rate": 200
+    },
+    {   "id":7,
+        "imgsrc": "/home/ttn/React/my-ecommerce/src/Images/p1.png",
+        "pname": "Medium baby pink Jacket",
+        "rate": 290
+    },
+    {   "id":8,
+        "imgsrc": "/home/ttn/React/my-ecommerce/src/Images/p8.jpg",
+        "pname": "Brown Leather Jacket",
+        "rate": 429
+    },
+    {   "id":9,
+        "imgsrc": "/home/ttn/React/my-ecommerce/src/Images/p3.jpg",
+        "pname": "Grass Green Jacket",
+        "rate": 190
+    }
+]
+}
